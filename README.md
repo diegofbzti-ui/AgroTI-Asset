@@ -18,14 +18,14 @@ O sistema foi projetado com foco na agilidade e clareza visual para profissionai
 4. **Cadastro / Atualização de Ativos:** Formulário dinâmico e simplificado para registro rápido de novos equipamentos ou alteração de status.
 5. **Relatórios e Auditoria:** Visão gerencial com indicadores de taxa de operação e distribuição de ativos por unidade/fazenda.
 
-👉 [Link do Protótipo Interativo no Figma](#) *(substitua pelo seu link do Figma)*
+👉 [https://www.figma.com/design/ALpWdbmVObmZNihIs4tmYo/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=AABIGb6nBhg3OoHy-0](#)
 
 ---
 
 ## 🎨 Decisões de Design e UX
 * **Identidade Visual:** Utilização de tons de Verde Agro e Esmeralda para conexão com o setor agrícola, combinados com um fundo neutro e limpo para reduzir a fadiga visual.
 * **Busca Flexível:** Priorizou-se a ausência de obrigatoriedade em múltiplos filtros complexos, permitindo que o analista localize qualquer ativo instantaneamente pelo nome, patrimônio ou setorx.
-* **Hierarquia em Blocos:** Organização das informações técnicas e de alocação em cartões separados para facilitar a leitura dinâmica em dispositivos móveis ou tablets no campo[cite: 3].
+* **Hierarquia em Blocos:** Organização das informações técnicas e de alocação em cartões separados para facilitar a leitura dinâmica em dispositivos móveis ou tablets no campo.
 
 ---
 
