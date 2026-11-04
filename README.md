@@ -27,11 +27,6 @@ O sistema foi projetado com foco na agilidade e clareza visual para profissionai
 * **Busca Flexível:** Priorizou-se a ausência de obrigatoriedade em múltiplos filtros complexos, permitindo que o analista localize qualquer ativo instantaneamente pelo nome, patrimônio ou setorx.
 * **Hierarquia em Blocos:** Organização das informações técnicas e de alocação em cartões separados para facilitar a leitura dinâmica em dispositivos móveis ou tablets no campo.
 
----
-
-## 📂 Estrutura do Repositório
-- `/figma` -> Contém o arquivo de exportação ou prints do protótipo de telas.
-- `/docs` -> Documentação teórica e estudos de caso do projeto.
 
 ---
 
