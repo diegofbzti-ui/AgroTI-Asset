@@ -18,7 +18,12 @@ O sistema foi projetado com foco na agilidade e clareza visual para profissionai
 4. **Cadastro / Atualização de Ativos:** Formulário dinâmico e simplificado para registro rápido de novos equipamentos ou alteração de status.
 5. **Relatórios e Auditoria:** Visão gerencial com indicadores de taxa de operação e distribuição de ativos por unidade/fazenda.
 
+**FIGMA - DESIGNER UX / IU**
 👉 [https://www.figma.com/design/ALpWdbmVObmZNihIs4tmYo/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=AABIGb6nBhg3OoHy-0]
+
+**YOUTUBE - APRESENTAÇAO**
+👉 [https://www.youtube.com/watch?v=TiFqrh0md88]
+
 
 ---
 
